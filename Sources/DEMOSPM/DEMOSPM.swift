@@ -1,7 +1,7 @@
 import Foundation
 
 public class DemoPM {
-    public func logMe()  {
+    public static func logMe()  {
         print("hello")
     }
 }
